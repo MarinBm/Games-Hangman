@@ -1,2 +1,3 @@
-# Games-Hangman
+# Games:
 Hangman
+
