@@ -1,3 +1,3 @@
 # Games:
 Hangman
-Slots
+
